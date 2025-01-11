@@ -1,4 +1,5 @@
 print("Calculator")
+print("Calculators")
 print("1:ADD")
 print("2:SUB")
 print("3:MUL")
